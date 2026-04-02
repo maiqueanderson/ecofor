@@ -392,13 +392,13 @@ Mensagem: ${message}`;
               Som, Corpo e Transe na capital baiana / nordestina da cultura. Um festival focado em economia criativa e impacto social.
             </p>
             <div className="flex gap-4">
-              <a href="https://instagram.com/ecoforfestival" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
+              <a href="https://instagram.com/ecofor_festival" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
                 <InstagramIcon size={20} />
               </a>
-              <a href="mailto:samgismario@gmail.com" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
+              <a href="mailto:festivalecofor@gmail.com" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
                 <Mail size={20} />
               </a>
-              <a href="https://wa.me/5571997284970" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-green-500 transition-colors">
+              <a href="https://wa.me/5579999127350" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-green-500 transition-colors">
                 <Phone size={20} />
               </a>
             </div>
@@ -407,9 +407,9 @@ Mensagem: ${message}`;
           <div>
             <h4 className="text-lg font-bold mb-6 text-white whitespace-nowrap">Contato & Realização</h4>
             <ul className="space-y-4 text-gray-400">
-              <li className="flex items-center gap-3"><Mail size={16} className="text-neon-purple flex-shrink-0" /> samgismario@gmail.com</li>
+              <li className="flex items-center gap-3"><Mail size={16} className="text-neon-purple flex-shrink-0" /> festivalecofor@gmail.com</li>
               <li className="flex items-center gap-3"><Phone size={16} className="text-neon-purple flex-shrink-0" /> WhatsApp: (79) 99912-7350</li>
-              <li className="flex items-center gap-3"><InstagramIcon size={16} className="text-neon-purple flex-shrink-0" /> @ecoforfestival</li>
+              <li className="flex items-center gap-3"><InstagramIcon size={16} className="text-neon-purple flex-shrink-0" /> @ecofor_festival</li>
               <li className="flex items-center gap-3"><MapPin size={16} className="text-neon-purple flex-shrink-0" /> Sergipe / Brasil</li>
             </ul>
           </div>
@@ -433,7 +433,7 @@ Mensagem: ${message}`;
 
         <div className="max-w-6xl mx-auto border-t border-white/10 pt-8 text-center md:flex md:justify-between md:items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Ecofor Festival. Todos os direitos reservados.
+            &copy; {new Date().getFullYear()} Site criado por Anilox Design | www.aniloxdesign.com.br
           </p>
           <div className="flex gap-4 justify-center text-sm text-gray-500">
             <a href="#" className="hover:text-white transition-colors">Termos</a>
