@@ -395,7 +395,7 @@ Mensagem: ${message}`;
               <a href="https://instagram.com/ecofor_festival" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
                 <InstagramIcon size={20} />
               </a>
-              <a href="mailto:festivalecofor@gmail.com" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
+              <a href="mailto:samgismario@gmail.com" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-neon-purple transition-colors">
                 <Mail size={20} />
               </a>
               <a href="https://wa.me/5579999127350" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-green-500 transition-colors">
@@ -407,7 +407,7 @@ Mensagem: ${message}`;
           <div>
             <h4 className="text-lg font-bold mb-6 text-white whitespace-nowrap">Contato & Realização</h4>
             <ul className="space-y-4 text-gray-400">
-              <li className="flex items-center gap-3"><Mail size={16} className="text-neon-purple flex-shrink-0" /> festivalecofor@gmail.com</li>
+              <li className="flex items-center gap-3"><Mail size={16} className="text-neon-purple flex-shrink-0" /> samgismario@gmail.com</li>
               <li className="flex items-center gap-3"><Phone size={16} className="text-neon-purple flex-shrink-0" /> WhatsApp: (79) 99912-7350</li>
               <li className="flex items-center gap-3"><InstagramIcon size={16} className="text-neon-purple flex-shrink-0" /> @ecofor_festival</li>
               <li className="flex items-center gap-3"><MapPin size={16} className="text-neon-purple flex-shrink-0" /> Sergipe / Brasil</li>
